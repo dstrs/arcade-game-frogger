@@ -1,5 +1,9 @@
 # arcade-game-frogger
 
+# Tasks:
+
+- [ ] Only one life!
+- [ ] Player sprite selector
 ## About 
 This game was developed as a project for FEND Udacity
 
@@ -15,8 +19,3 @@ Use arrow keys to move the player in that direction
 - '↑' to move in forward direction
 - '↓'to move in backward direction
 
-
-# Tasks:
-
-- [ ] Only one life!
-- [ ] Player sprite selector
