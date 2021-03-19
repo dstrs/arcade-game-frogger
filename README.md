@@ -4,6 +4,7 @@
 
 - [ ] Only one life!
 - [ ] Player sprite selector
+- [ ] Support mobile
 ## About 
 This game was developed as a project for FEND Udacity
 
