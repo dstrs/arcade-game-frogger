@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+
+.game-over {
+	width: 500px;
+	height: 400px;
+	background: blue;
+}
+
+/*div {
+	border: 1px solid black;
+	height: 100px;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+.score {
+	width: 40%;
+}
+
+.side-bar {
+	width: 10%;
+}*/
