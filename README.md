@@ -14,14 +14,9 @@ Use arrow keys to move the player in that direction
 - '→' to move right side
 - '↑' to move in forward direction
 - '↓'to move in backward direction
-## Dependencies 
-This game was built with starter files provided by Udacity.
 
-## Coming Soon
-- player sprite selector
 
-## Contributing 
-Anyone interested is welcome!
+# Tasks:
 
-## License 
-The contents of this repository are covered under the MIT License.
+- [ ] Only one life!
+- [ ] Player sprite selector
